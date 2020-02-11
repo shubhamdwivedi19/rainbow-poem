@@ -4,7 +4,7 @@ There are 7 colours in a rainbow.
 Voilet
 indigo
 Blue
-
+green
 Yellow
 orange
 red
