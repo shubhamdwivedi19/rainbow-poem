@@ -1,10 +1,2 @@
-i am going to write a poem.
-There are 7 colours in a rainbow.
-unicorns
-Voilet
-indigo
-Blue
-green
-Yellow
-orange
-red
+# This is a git file 
+no one ever reads this.
